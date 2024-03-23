@@ -1,0 +1,5 @@
+openai api
+langchain
+streamlit
+python-dot env
+pyPDF-2
